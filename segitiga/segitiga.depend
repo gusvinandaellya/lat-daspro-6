@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509470740 source:d:\praktekk dasproo tugas\segitiga\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

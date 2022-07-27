@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509467247 source:d:\praktekk dasproo tugas\ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+
